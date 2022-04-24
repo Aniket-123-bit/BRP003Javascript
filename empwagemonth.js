@@ -1,3 +1,4 @@
+//20 Working Day per Month uc4
 const NUM_OF_WORKING_DAYS=2;
 const IS_PART_TIME = 1;
 const IS_FULL_TIME = 2;
